@@ -51,7 +51,7 @@
 #   # Storage keys must reference the azure region name
 #   storage = {
 #     all_regions = {
-#       southeastasia = {
+#       francecentral = {
 #         storage_account_key = "diagsiem_region1"
 #       }
 #     }

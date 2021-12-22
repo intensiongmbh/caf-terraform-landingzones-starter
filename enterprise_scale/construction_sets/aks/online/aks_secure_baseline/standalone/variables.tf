@@ -6,7 +6,7 @@ variable "global_settings" {
     random_length  = 4
     default_region = "region1"
     regions = {
-      region1 = "southeastasia"
+      region1 = "francecentral"
     }
   }
 }
